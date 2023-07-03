@@ -127,7 +127,7 @@ button > span {
 }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (min-width: 1440px) {
+@media (min-width: 800px) {
     .card {
         flex-direction: row;
         max-height: 450px;
